@@ -99,12 +99,12 @@ li:hover{
 }
 
 .ken {
-	background-image: url(../img4/ken.jpg);
+	background-image: url(../about/ken2.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
 	border: 2px black solid;
-	height: 79vh;
+	height: 100vh;
 	margin-top: 6px ;
 	margin-left: 6px ;
 	border-radius: 8px ;
